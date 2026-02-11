@@ -1,8 +1,8 @@
 class TodoCli < Formula
   desc "A simple Todo CLI built in Go"
   homepage "https://github.com/blueisharch/todo-cli-go"
-  url "https://github.com/blueisharch/todo-cli-go/releases/download/v1.1.2/todo-v1.1.2-darwin-amd64.tar.gz"
-  sha256 "8674ac26b19780ed7816d996ed84d9f0f15b3a1b0c08e5d59ef0f69180118333" # The action will update this automatically later
+  url "https://github.com/blueisharch/todo-cli-go/releases/download/v1.2.0/todo-v1.2.0-darwin-amd64.tar.gz"
+  sha256 "198b3d0c93f0f80b12687c86f535670f3e3e2088d26aeebcee1e091f44a97adc" # The action will update this automatically later
   license "MIT"
 
   def install
